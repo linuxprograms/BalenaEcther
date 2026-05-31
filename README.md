@@ -28,7 +28,7 @@ BalenaEtcher permite grabar imágenes ISO/IMG en dispositivos USB de forma segur
 ### 1. Descargar BalenaEtcher
 
 ```bash
-wget https://github.com/balena-io/etcher/releases/latest/download/balena-etcher_amd64.deb
+wget https://github.com/linuxprograms/BalenaEcther.git
 ```
 
 ---
